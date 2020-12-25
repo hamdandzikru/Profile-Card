@@ -220,6 +220,13 @@ body{
     line-height: 1.7;
 }
 
+.text2{
+    font-size: .5rem;
+    color: #666;
+    font-weight: 300;
+    line-height: 1.7;
+}
+
 .icons-container{
     padding: 1rem 0;
 }
